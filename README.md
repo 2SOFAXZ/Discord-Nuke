@@ -15,4 +15,4 @@ node Dub_Dis.js
 
 # How to Use
 
-node Dub_Dis.js <guild-id>
+node Dub_Dis.js (guild-id)
