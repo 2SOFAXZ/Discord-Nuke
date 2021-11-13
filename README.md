@@ -1,4 +1,4 @@
-# Discord-Nuke-
+# Discord-Nuke
 Nodejs X WeAreRainBow
 
 # How to install
